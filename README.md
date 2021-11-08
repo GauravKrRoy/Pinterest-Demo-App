@@ -20,7 +20,7 @@
 
     The app should be able to run on any device running API 23 or above.
 	
-Your task 
+# Your task 
 
 Imagine you are on the Pinterest Android team and you are working with some colleagues on the pinboard (the scrolling wall of images), you split up the tasks among each other and your task is to create an image loading a library that will be used to asynchronously download the images for the pins on the pinboard when they are needed. 
 
@@ -60,7 +60,6 @@ The purpose of the library is to abstract the downloading (images, pdf, zip, etc
 
 ●  Can use Java or kotlin.
 
-Last considerations 
-Please understand that this test becomes the showcase of your skills, so do not skip on professional programming standards. 
+●  Last considerations, Please understand that this test becomes the showcase of your skills, so do not skip on professional programming standards. 
 
 
