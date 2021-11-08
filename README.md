@@ -30,7 +30,7 @@ One of your colleagues will also want to use the library for loading JSON docume
 
 The purpose of the library is to abstract the downloading (images, pdf, zip, etc) and caching of remote resources (images, JSON, XML, etc) so that client code can easily "swap" a URL for any kind of files ( JSON, XML, etc) without worrying about any of the details. Resources which are reused often should not be continually re-downloaded and should be cached, but the library cannot use infinite memory. 
 
-Requirements 
+# Requirements 
 
 ●  Use the following URL for loading data: http://pastebin.com/raw/wgkJgazE
 ●  Images and JSON should be cached efficiently (in-memory only, no need for caching to disk);
